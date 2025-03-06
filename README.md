@@ -1,0 +1,1 @@
+This is a modification done to filter everything pro wordpress filter plugin, with this function it changes the search option to only search for title and expert, also it replaces wordpress LIKE with REGEXP to search the entire world instead of searching for part of it.
